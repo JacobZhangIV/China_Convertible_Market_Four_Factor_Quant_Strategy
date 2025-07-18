@@ -1,0 +1,11 @@
+factor_name:  momentum_20d    p_value: 0.011341942503076297  t_value:2.5322044135454433
+factor_name:  momentum_60d    p_value: 2.9361805677918795e-06  t_value:4.676949520376779
+factor_name:  momentum_90d    p_value: 1.722011422344849e-09  t_value:6.026805771187693
+factor_name:  volatility_20d    p_value: 9.664018474353497e-10  t_value:6.117631008321965
+factor_name:  volatility_60d    p_value: 2.423989140720728e-05  t_value:4.223038321200684
+factor_name:  volatility_90d    p_value: 2.471144666005287e-06  t_value:4.712800996930461
+factor_name:  avg_volume_20d    p_value: 5.822165123792189e-06  t_value:4.533889976969966
+factor_name:  avg_volume_60d    p_value: 0.0  t_value:8.471908721160963
+factor_name:  avg_volume_90d    p_value: 1.9317880628477724e-12  t_value:7.046763136057482
+factor_name:  volume_shock    p_value: 6.890931796288413e-07  t_value:4.966449157553053
+factor_name:  rsi_14d    p_value: 0.0001602261888731249  t_value:3.775256073822391

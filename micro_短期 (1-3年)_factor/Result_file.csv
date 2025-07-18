@@ -1,0 +1,7 @@
+factor_name:  volatility_20d    p_value: 1.2268284166339072e-09  t_value:6.077641922975862
+factor_name:  volatility_60d    p_value: 0.011844364453412526  t_value:2.516833539431729
+factor_name:  volatility_90d    p_value: 0.0009675683858532125  t_value:3.2999942942644878
+factor_name:  avg_volume_20d    p_value: 0.010476844008190822  t_value:2.559759625435181
+factor_name:  avg_volume_60d    p_value: 8.244231297638294e-08  t_value:5.362442276346949
+factor_name:  avg_volume_90d    p_value: 3.291180482212219e-05  t_value:4.152714604480518
+factor_name:  volume_shock    p_value: 0.002919114533847411  t_value:2.9762661107518347

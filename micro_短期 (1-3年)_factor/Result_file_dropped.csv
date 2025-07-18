@@ -1,0 +1,7 @@
+factor_name:  momentum_5d    p_value: 0.6716728792149658  t_value:-0.4238551550853236
+factor_name:  momentum_10d    p_value: 0.44096438840766505  t_value:0.7705705985732175
+factor_name:  momentum_20d    p_value: 0.6494040880741654  t_value:0.4545924451037536
+factor_name:  momentum_60d    p_value: 0.620479879005208  t_value:-0.49517321950041376
+factor_name:  momentum_90d    p_value: 0.2894904715275155  t_value:-1.0592516902299156
+factor_name:  rsi_14d    p_value: 0.2673695106996463  t_value:1.1091502261695165
+factor_name:  macd    p_value: 0.5705190361917816  t_value:-0.567290155375783

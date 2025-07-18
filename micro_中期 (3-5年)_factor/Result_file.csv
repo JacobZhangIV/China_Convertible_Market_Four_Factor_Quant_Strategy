@@ -1,0 +1,8 @@
+factor_name:  momentum_5d    p_value: 0.0031065828070133694  t_value:-2.9571686546144083
+factor_name:  momentum_10d    p_value: 0.0007861123174097706  t_value:-3.35789746250536
+factor_name:  momentum_20d    p_value: 3.362501443349153e-05  t_value:-4.147899469963005
+factor_name:  avg_volume_60d    p_value: 0.05611406234012439  t_value:-1.910210958792311
+factor_name:  avg_volume_90d    p_value: 0.00015322958287322663  t_value:-3.7862112122246097
+factor_name:  volume_shock    p_value: 0.012365154411717816  t_value:-2.501675640131731
+factor_name:  rsi_14d    p_value: 3.471815390732047e-08  t_value:-5.516873669119953
+factor_name:  macd    p_value: 0.0012716123805980306  t_value:-3.222536067601427

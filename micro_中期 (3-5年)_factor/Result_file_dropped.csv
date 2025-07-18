@@ -1,0 +1,6 @@
+factor_name:  momentum_60d    p_value: 0.7827490855218631  t_value:-0.2757403711571004
+factor_name:  momentum_90d    p_value: 0.9339670365104391  t_value:-0.08285537410641786
+factor_name:  volatility_20d    p_value: 0.16730761399995298  t_value:-1.38093257259647
+factor_name:  volatility_60d    p_value: 0.5511498017481875  t_value:0.5960437303025449
+factor_name:  volatility_90d    p_value: 0.7015953627010485  t_value:-0.38317108511808184
+factor_name:  avg_volume_20d    p_value: 0.11600926183001214  t_value:-1.571781815195442
